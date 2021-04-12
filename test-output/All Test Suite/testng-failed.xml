@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="/Users/apoorvamishra/Documents/SeleniumTest(failed)">
+    <classes>
+      <class name="seleniumTestProject.SeleniumProject">
+        <methods>
+          <include name="testScenario5"/>
+          <include name="startReport"/>
+          <include name="getResult"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- seleniumTestProject.SeleniumProject -->
+    </classes>
+  </test> <!-- /Users/apoorvamishra/Documents/SeleniumTest(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
